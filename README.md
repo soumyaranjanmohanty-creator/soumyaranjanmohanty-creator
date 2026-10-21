@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png.png" alt="Soumya Ranjan Mohanty - Aspiring AWS Cloud Engineer" width="100%">
+</p>
+
 # Hi, I'm Soumya Ranjan Mohanty 👋
 
 ### Aspiring AWS Cloud Engineer | Cloud Architecture | Cloud Security
