@@ -41,7 +41,6 @@ I enjoy building practical applications and exploring how cloud technologies can
 
 ### Programming & Development
 - Java
-- Python
 - SQL
 - Spring Boot
 - React
